@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const myButton = document.getElementById('myButton');
-//okokkokokkokokok
+
   if (myButton) {
     myButton.addEventListener('click', function() {
       alert('Button clicked!');
